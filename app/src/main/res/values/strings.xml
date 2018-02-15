@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TC2024_Lab4_2018</string>
+    <string name="choose_your_hardware">Choose your Hardware</string>
+    <string name="prox_sensor">Prox. Sensor</string>
+    <string name="sms">SMS</string>
+    <string name="vibration">Vibration</string>
+    <string name="vibration_child">Vibration</string>
+    <string name="proximity_sensor">Proximity Sensor</string>
+    <string name="sms_title">SMS</string>
+    <string name="submit">Submit</string>
+    <string name="write_your_phone_number">Write your phone number</string>
+    <string name="enterphonenumber">EnterPhoneNumber</string>
+</resources>
